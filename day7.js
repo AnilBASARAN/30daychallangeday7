@@ -1,4 +1,5 @@
 /* CHALLANGE day 7:
+Date : october 8 - 2024
 
 pair product
 
